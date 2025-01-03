@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/oshliaer/building-typescript-cli-node-js-commander/issues"
   },
-  "homepage": "https://github.com/oshliaer/building-typescript-cli-node-js-commander#readme"
+  "homepage": "https://github.com/oshliaer/building-typescript-cli-node-js-commander#readme",
+  "dependencies": {
+    "commander": "^13.0.0",
+    "figlet": "^1.8.0"
+  }
 }
