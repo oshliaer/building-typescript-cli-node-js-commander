@@ -1,0 +1,21 @@
+{
+  "name": "building-typescript-cli-node-js-commander",
+  "version": "1.0.0",
+  "description": "Основано на статье [stanulilic](https://github.com/stanulilic) [Building a TypeScript CLI with Node.js and Commander](https://blog.logrocket.com/building-typescript-cli-node-js-commander)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshliaer/building-typescript-cli-node-js-commander.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oshliaer/building-typescript-cli-node-js-commander/issues"
+  },
+  "homepage": "https://github.com/oshliaer/building-typescript-cli-node-js-commander#readme"
+}
