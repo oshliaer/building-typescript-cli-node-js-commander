@@ -1,3 +1,6 @@
-import figlet from "figlet";
+import { Command } from 'commander';
+import figlet from 'figlet';
 
-console.log(figlet.textSync("Dir Manager"));
+const program = new Command();
+
+console.log(figlet.textSync('Dir Manager'));
