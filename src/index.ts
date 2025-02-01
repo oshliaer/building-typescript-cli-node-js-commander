@@ -52,6 +52,11 @@ if (options.ls) {
 if (options.mkdir) {
   createDir(path.resolve(__dirname, options.mkdir));
 }
+
 if (options.touch) {
   createFile(path.resolve(__dirname, options.touch));
+}
+
+if (!process.argv.slice(2).length) {
+  program.outputHelp();
 }
