@@ -1,6 +1,6 @@
 {
   "name": "@oshliaer/building-typescript-cli-node-js-commander",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Основано на статье [stanulilic](https://github.com/stanulilic) [Building a TypeScript CLI with Node.js and Commander](https://blog.logrocket.com/building-typescript-cli-node-js-commander)",
   "keywords": [
     "cli",
